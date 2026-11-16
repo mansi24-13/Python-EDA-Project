@@ -17,7 +17,7 @@ This project focuses on Exploratory Data Analysis (EDA) of sales data using Pyth
 - Profession-wise transactions and sales
 - Top 10 products by quantity ordered
 
-<img src="https://github.com/mansi24-13/Python-EDA-Project/blob/5c6ef9fa922e8298131061eb87e56ed058777be1/piechart.png" alt="Image Description" width250>
+<img src="https://github.com/mansi24-13/Python-EDA-Project/blob/5c6ef9fa922e8298131061eb87e56ed058777be1/piechart.png" alt="Image Description" width=250>
 <br>
 
 ## 📂 Project Files
