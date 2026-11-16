@@ -10,14 +10,14 @@ This project focuses on Exploratory Data Analysis (EDA) of sales data using Pyth
 - Matplotlib & Seaborn
 
 ## 📈 Key Analysis
-- Gender-wise transactions and sales
+- Gender-wise transactions and sales                                   
 - Age group-wise sales analysis
 - Top 5 states by sales and quantity
 - Product category-wise analysis
 - Profession-wise transactions and sales
 - Top 10 products by quantity ordered
 
-<img src="https://github.com/mansi24-13/Python-EDA-Project/blob/5c6ef9fa922e8298131061eb87e56ed058777be1/piechart.png" alt="Image Description" width=400>
+<img src="https://github.com/mansi24-13/Python-EDA-Project/blob/5c6ef9fa922e8298131061eb87e56ed058777be1/piechart.png" alt="Image Description" width250>
 <br>
 
 ## 📂 Project Files
