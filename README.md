@@ -89,7 +89,7 @@ The project covers the following analyses:
 
 ## 👩‍💻 Author
 
-**Mansi Lokhande**
+**Mansi**
 
 Aspiring Data Analyst | Python | Pandas | NumPy | Matplotlib | Seaborn
 
